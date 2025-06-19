@@ -4,4 +4,4 @@ python-dotenv==1.0.1
 PyMuPDF==1.22.3
 sentence-transformers==2.6.1
 numpy==1.26.4
-torch==2.3.0
+# torch removed to avoid Py 3.13 incompatibility
